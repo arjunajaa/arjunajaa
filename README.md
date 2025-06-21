@@ -15,7 +15,7 @@
 ## 🔥 **GitHub Activity**
 
 <!-- Primary streak counter -->
-<img src="https://streak-stats.demolab.com/?user=arjunajaa&theme=tokyonight&hide_border=true&background=0D1117"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=arjunajaa&theme=tokyonight)](https://git.io/streak-stats)
 
 
 </div>

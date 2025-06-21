@@ -79,49 +79,14 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arjunajaa/arjunajaa/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
 
 ---
 
-<!-- Trophies Section -->
-<div align="center">
-  
-## 🏆 **Achievement Unlocked**
-
-<img src="https://github-profile-trophy.vercel.app/?username=arjunajaa&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
-
-</div>
-
----
-
-<!-- Current Status -->
-<div align="center">
-  
-## 🎯 **Current Quests**
-
-```mermaid
-graph TD
-    A[🎯 Current Focus] --> B[🚀 Building Scalable Apps]
-    A --> C[🤖 Exploring AI/ML]
-    A --> D[☁️ Cloud Architecture]
-    
-    B --> E[Next.js Projects]
-    C --> F[TensorFlow & PyTorch]
-    D --> G[AWS & Docker]
-    
-    style A fill:#F85D7F,stroke:#FFFFFF,color:#FFFFFF
-    style B fill:#36BCF7,stroke:#FFFFFF,color:#FFFFFF
-    style C fill:#F8D866,stroke:#000000,color:#000000
-    style D fill:#98FB98,stroke:#000000,color:#000000
-```
-
-</div>
-
----
 
 <!-- Random Dev Quote -->
 <div align="center">
-  
+   
+
 ## 💭 **Code Wisdom**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House"/>

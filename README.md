@@ -17,26 +17,6 @@
 </div>
 
 
-
-<!-- GitHub Stats with Custom Layout -->
-<div align="center">
-
-
-<table>
-<tr>  <td width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=arjunajaa&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=10&hide_rank=true"/>
-  </td>
-  <td width="50%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunajaa&theme=cyberpunk&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=F8D866&sideNums=F8D866&dates=FFFFFF&border_radius=10"/>
-  </td>
-</tr>
-</table>
-
-<!-- Language Stats with Donut Chart -->
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunajaa&layout=donut-vertical&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=10"/>
-
-</div>
-
 ---
 
 <!-- Tech Stack with Creative Icons -->
@@ -168,38 +148,6 @@ graph TD
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arjunaja_)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarjunaja@gmail.com)
-
-</div>
-
----
-
-<!-- Fun Interaction -->
-<div align="center">
-  
-## 🎮 **Easter Egg**
-
-<details>
-<summary>🎯 Click here if you're brave enough!</summary>
-
-### 🎊 Congratulations! You found the secret! 🎊
-
-```javascript
-function thankYou() {
-    const message = "Thanks for visiting my profile!";
-    const emoji = "🚀✨💻🔥";
-    
-    console.log(`${message} ${emoji}`);
-    
-    // Secret developer joke
-    return "Why do programmers prefer dark mode? Because light attracts bugs! 🐛";
-}
-
-thankYou();
-```
-
-**Fun Fact:** You're the **![Visitor Count](https://profile-counter.glitch.me/arjunajaa/count.svg)**th person to discover this!
-
-</details>
 
 </div>
 

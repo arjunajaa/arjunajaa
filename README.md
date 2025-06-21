@@ -68,17 +68,6 @@
 
 ---
 
-<!-- Activity Graph -->
-<div align="center">
-  
-## 📈 **Coding Heartbeat**
-
-[![Arju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arjunajaa&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&area_color=36BCF7)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <!-- Snake Animation -->
 <div align="center">
   

@@ -9,21 +9,23 @@
   <img src="https://img.shields.io/github/followers/arjunajaa?style=for-the-badge&color=blue&labelColor=black"/>
 </div>
 
-<!-- GitHub Activity -->
+<!-- Snake Animation -->
 <div align="center">
-  
-## 🔥 **GitHub Activity**
-
-<!-- Primary streak counter -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=arjunajaa)](https://git.io/streak-stats)
 
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunajaa/arjunajaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjunajaa/arjunajaa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arjunajaa/arjunajaa/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+---
 
 <!-- Typing Animation with Multiple Lines -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=120&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Code+Artisan+%26+Problem+Solver;%F0%9F%9A%80+Turning+Coffee+into+Code;%F0%9F%8C%9F+Building+Digital+Dreams" alt="Typing SVG"/>  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=120&lines=%F0%9F%9A%80+Turning+Coffee+into+Code;%F0%9F%8C%9F+Building+Digital+Dreams" alt="Typing SVG"/>  </a>
 </div>
 
 <br><br>
@@ -79,19 +81,6 @@
 
 ---
 
-<!-- Snake Animation -->
-<div align="center">
-  
-## 🐍 **Watch the Snake Devour My Commits!**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunajaa/arjunajaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjunajaa/arjunajaa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arjunajaa/arjunajaa/output/github-contribution-grid-snake.svg">
-</picture>
-
-
----
 
 
 <!-- Random Dev Quote -->

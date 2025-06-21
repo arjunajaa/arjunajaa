@@ -15,7 +15,7 @@
 ## 🔥 **GitHub Activity**
 
 <!-- Primary streak counter -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=arjunajaa&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arjunajaa)](https://git.io/streak-stats)
 
 
 </div>

@@ -14,7 +14,9 @@
   
 ## 🔥 **GitHub Activity**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunajaa&theme=tokyonight&hide_border=true"/>
+<!-- Primary streak counter -->
+<img src="https://streak-stats.demolab.com/?user=arjunajaa&theme=tokyonight&hide_border=true&background=0D1117"/>
+
 
 </div>
 

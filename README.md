@@ -9,6 +9,15 @@
   <img src="https://img.shields.io/github/followers/arjunajaa?style=for-the-badge&color=blue&labelColor=black"/>
 </div>
 
+<!-- GitHub Activity -->
+<div align="center">
+  
+## 🔥 **GitHub Activity**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunajaa&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 <!-- Typing Animation with Multiple Lines -->
 <div align="center">
   <a href="https://git.io/typing-svg">

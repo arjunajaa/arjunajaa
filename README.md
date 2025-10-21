@@ -23,7 +23,7 @@
 ---
 
 <!-- Typing Animation with Multiple Lines -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=120&lines=%F0%9F%9A%80+Turning+Coffee+into+Code;%F0%9F%8C%9F+Building+Digital+Dreams" alt="Typing SVG"/>  </a>
 </div>
@@ -105,7 +105,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
   
-  **"Code is poetry written in logic"** ✨
+  <!-- **"Code is poetry written in logic"** ✨ -->
   
   ⭐️ From [arjunajaa](https://github.com/arjunajaa) with ❤️
   
